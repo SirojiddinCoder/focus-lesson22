@@ -46,3 +46,64 @@ margin-left: 41px;
 .nav{
     margin-right: 450px;
 }
+
+/* ====== */
+.section-title{
+    color: rgb(21, 12, 1);
+    font-family: Philosopher;
+    font-size: 45.83px;
+    font-weight: 700;
+    margin-bottom: 42px;
+   
+}
+.section-description{
+    color: rgb(21, 12, 1);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+   
+
+}
+
+.section-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
+.section-img img{
+    width: 500px;
+  
+}
+.order-btn{
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 5px;
+
+background: rgb(220, 120, 11);  
+padding: 21px 41px;
+text-decoration: none;
+}
+.food-btn{
+    color: rgb(241, 133, 18);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+border: 1.5px solid rgb(220, 120, 11);
+border-radius: 5px;
+padding: 21px 41px; 
+text-decoration: none;
+margin-left: 30px;
+
+}
+.section-btns{
+    margin-top: 50px;
+}
